@@ -11,3 +11,5 @@ Repositório da aula de git de Práticas em Ciências de Dados
 Vamos aprender a fazer um commit global.
 
 Estou modificando novamente o README
+
+Mais uma modificação feita aqui.
